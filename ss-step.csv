@@ -1,0 +1,8 @@
+step_type,step_abbrev,is_difficult
+toe step,,FALSE
+chasse,,FALSE
+mohawk,MO,FALSE
+choctaw,clCho,TRUE
+,opCho,
+change of edge,CE,FALSE
+cross roll,,FALSE
